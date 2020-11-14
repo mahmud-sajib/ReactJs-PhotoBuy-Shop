@@ -34,7 +34,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Check if you have nodejs installed `node -v`
 2. Clone This Project `git clone https://github.com/mahmud-sajib/ReactJs-PhotoBuy-Shop.git`
-3. Finally Run The Project `npm start`
+3. Navigate to project directory `cd ReactJs-PhotoBuy-Shop`
+4. Install node modules `npm install`
+5. Finally Run The Project `npm start`
 
 ## Project Demo
 
@@ -62,5 +64,5 @@ Live Project url: [react-picshop.netlify.app](https://react-picshop.netlify.app/
 
 ## Feedback
 
-Feel free to send me feedback on [Twitter](https://twitter.com/MahmudSajib18) or [file an issue](https://github.com/mahmud-sajib/DRF-Ecommerce-API/issues/new). If you wish to contribute, please feel free to do so!
+Feel free to send me feedback on [Twitter](https://twitter.com/MahmudSajib18) or [file an issue](https://github.com/mahmud-sajib/ReactJs-PhotoBuy-Shop/issues/new). If you wish to contribute, please feel free to do so!
 
